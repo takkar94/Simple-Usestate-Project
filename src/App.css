@@ -1,0 +1,67 @@
+.valentine-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f8f8f8;
+}
+
+.text-holder{
+  font-family: 'Arial', sans-serif;
+
+  /* Set the font size */
+  font-size: 16px;
+
+  /* Set the font color */
+  color: #333;
+
+  /* Set the text alignment */
+  text-align: center;
+
+  /* Set the line height */
+  line-height: 1.5;
+
+  /* Set font weight */
+  font-weight: bold;
+
+    /* Set text transform (e.g., capitalize) */
+  text-transform: capitalize;
+
+  /* Set letter spacing */
+  letter-spacing: 1px;
+
+  /* Set word spacing */
+  word-spacing: 2px;
+
+  /* Set text shadow */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+
+  /* Set background color */
+  background-color: #f8f8f8;
+
+  /* Set padding */
+  padding: 10px;
+}
+
+.yesButton{
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.no-button{
+  background-color: red; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
