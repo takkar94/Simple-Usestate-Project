@@ -5,12 +5,13 @@ import "./App.css";
 
 const phrases = [
   "No",
-  "Are You Sure",
-  "Really Sure",
+  "Are You Sure ???? ",
+  "Really Sure ????",
   "Pookie Please",
   "You are breaking my heart",
   "Are you absolutely certain?",
   "Change of heart?",
+  "That will hurt me tho so you sure ?"
 ];
 
 function App() {
