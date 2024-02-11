@@ -65,3 +65,18 @@
   display: inline-block;
   font-size: 16px;
 }
+
+.text {
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+  color: #31201e;
+  text-align: center;
+  line-height: 1.5;
+  font-weight: bold;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  background-color: #f8f8f8;
+  padding: 10px;
+}
