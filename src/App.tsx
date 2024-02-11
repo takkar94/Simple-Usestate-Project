@@ -34,7 +34,7 @@ function App() {
             alt="kisses"
             src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif"
           />
-          <div className="text">Yaaaaaaaaaay!!!</div>
+          <div className="text">❤️❤️❤️Yaaaaaaaaaay❤️❤️❤️</div>
         </>
       ) : (
         <>
